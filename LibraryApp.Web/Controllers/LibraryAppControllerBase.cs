@@ -14,8 +14,7 @@ namespace LibraryApp.Web.Controllers
         {
             LocalizationSourceName = LibraryAppConsts.LocalizationSourceName;
         }
-
-        protected virtual void CheckModelState()
+       protected virtual void CheckModelState()
         {
             if (!ModelState.IsValid)
             {

@@ -23,3 +23,9 @@ A simple yet functional Library Management System built using the **ASP.NET Boil
 1. Clone the repo:
    ```bash
    git clone https://github.com/sushandhakal125/Library-Manager-AspNet.git
+
+2. Open the solution in Visual Studio.
+
+3. Restore NuGet packages and run database migrations.
+
+4. Start both backend and frontend apps.
